@@ -1,0 +1,6 @@
+node_modules
+public
+build
+eslintrc.json
+prettierrc.json
+tsconfig.json
